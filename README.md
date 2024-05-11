@@ -3,6 +3,7 @@
 
 São Paulo, a maior cidade do Brasil, é um caldeirão cultural que atrai visitantes de todo o mundo. Para explorar suas vastas riquezas e garantir que cada viagem seja uma experiência única e inesquecível, apresentamos nosso Planejador de Viagens para São Paulo. Este é um convite para se aventurar pelas ruas movimentadas, saborear a culinária diversificada e mergulhar na rica história e arte desta metrópole pulsante.
 
+![sao_paulo_image](https://github.com/aynarodrigues/alura_ia_desafio/blob/main/alura%20imagem.jpg)
 ### Objetivo:
 
 Nosso objetivo é proporcionar aos viajantes uma maneira fácil e personalizada de explorar São Paulo. Com o nosso planejador de viagens, os visitantes podem definir seus interesses, estilo de viagem e ritmo desejado, permitindo-nos criar roteiros sob medida que atendam às suas preferências individuais. Queremos que cada pessoa que visite São Paulo se sinta totalmente imersa na cidade, descobrindo seus tesouros ocultos e vivendo experiências autênticas.
