@@ -1,5 +1,8 @@
 # alura_ia_desafio
-Claro, vamos organizar a descrição do planejador de viagens para São Paulo em três tópicos distintos: Apresentação, Objetivo e Motivo de Criação.
+git add imagem.png
+git commit -m "Adiciona imagem ao repositório"
+git remote add origin URL_do_repositorio
+git push -u origin main
 
 ### Apresentação:
 
