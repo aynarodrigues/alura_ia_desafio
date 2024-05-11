@@ -1,9 +1,4 @@
 # alura_ia_desafio
-git add imagem.png
-git commit -m "Adiciona imagem ao repositório"
-git remote add origin URL_do_repositorio
-git push -u origin main
-
 ### Apresentação:
 
 São Paulo, a maior cidade do Brasil, é um caldeirão cultural que atrai visitantes de todo o mundo. Para explorar suas vastas riquezas e garantir que cada viagem seja uma experiência única e inesquecível, apresentamos nosso Planejador de Viagens para São Paulo. Este é um convite para se aventurar pelas ruas movimentadas, saborear a culinária diversificada e mergulhar na rica história e arte desta metrópole pulsante.
