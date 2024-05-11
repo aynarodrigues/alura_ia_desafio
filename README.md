@@ -11,3 +11,6 @@ Nosso objetivo é proporcionar aos viajantes uma maneira fácil e personalizada 
 ### Motivo de Criação:
 
 O motivo por trás da criação deste planejador de viagens é incentivar o turismo em São Paulo de uma forma que seja acessível, conveniente e emocionante para todos os viajantes. Queremos inspirar as pessoas a explorarem além dos pontos turísticos tradicionais, descobrindo os bairros encantadores, experimentando a gastronomia local e se conectando com a rica cultura da cidade. Acreditamos que, ao facilitar a descoberta de São Paulo, podemos contribuir para uma experiência turística mais enriquecedora e significativa para todos que a visitam.
+
+### Teste do Projeto:
+![teste_image](https://github.com/aynarodrigues/alura_ia_desafio/blob/main/Teste-IA.png)
